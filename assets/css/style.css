@@ -33,6 +33,7 @@ nav{
 ul{
     font-weight: bold;
     
+    
 }
 
 li {
@@ -44,6 +45,8 @@ li a {
     padding: 37px;
     text-decoration: none;
     color: #777777;
+    
+    
 }
 li a:hover {
     background-color:lightgray;
@@ -61,14 +64,13 @@ li a:hover {
     clear: both;
     width: 960px;
     margin: 0 auto;
-    height: 500px;
     background: #ffffff;
     color: #777777;
     border: 2px solid #dddddd;
 }
 
 section{
-    margin: auto 20px;
+    margin: auto 30px;
 }
 
 h2{
@@ -120,13 +122,112 @@ button {
    
 }
 
+.portfolio img{
+    height: 200px;
+    width: 200px;
+    margin: 0px 40px 20px 0px;
+    border: 1px solid black;
+    
+}
+
+.portfolio{
+    height: 780px;
+}
+
+#port1 {
+    float: left;
+}
+
+.text1{
+    position: absolute;
+    top: 380px;
+    left: 33px;
+    background-color: #4aaaaf;
+    color: white;
+    width: 198px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+}
+
+#port2 {
+    float: left;
+}
+
+.text2{
+    position: absolute;
+    top: 380px;
+    left: 273px;
+    background-color: #4aaaaf;
+    color: white;
+    width: 198px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+}
+
+#port3 {
+    clear: both;
+    float: left;
+}
+
+.text3{
+    position: absolute;
+    top: 600px;
+    left: 33px;
+    background-color: #4aaaaf;
+    color: white;
+    width: 198px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+}
+
+#port4 {
+    float: left;
+}
+
+.text4{
+    position: absolute;
+    top: 600px;
+    left: 273px;
+    background-color: #4aaaaf;
+    color: white;
+    width: 198px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+}
+#port5 {
+    clear: both;
+    float: left;
+}
+
+
+.text5{
+    position: absolute;
+    top: 825px;
+    left: 33px;
+    background-color: #4aaaaf;
+    color: white;
+    width: 198px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+}
+
 p{
     line-height: 2;
 }
 
 footer{
     clear: both;
-    margin-top: 50px;
+    margin-top: 40px;
     border-top: 5px solid #4aaaaf;
     padding: 20px;
     text-align: center;
