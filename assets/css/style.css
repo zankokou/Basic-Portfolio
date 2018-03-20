@@ -115,6 +115,8 @@ button {
     border: none;
 }
 
+
+
 #me{
     display: inline;
     float: left;
@@ -125,8 +127,8 @@ button {
 .portfolio img{
     height: 200px;
     width: 200px;
-    margin: 0px 40px 20px 0px;
-    border: 1px solid black;
+    margin: 0px 80px 20px 0px;
+    
     
 }
 
@@ -140,11 +142,12 @@ button {
 
 .text1{
     position: absolute;
-    top: 380px;
-    left: 33px;
+    margin-top: -70px;
+    margin-left: 0.5px;
+    z-index: 3;
     background-color: #4aaaaf;
     color: white;
-    width: 198px;
+    width: 198.5px;
     height: 40px;
     text-align: center;
     line-height: 40px;
@@ -157,11 +160,12 @@ button {
 
 .text2{
     position: absolute;
-    top: 380px;
-    left: 273px;
+    margin-top: -70px;
+    margin-left: 0.5px;
+    z-index: 3;
     background-color: #4aaaaf;
     color: white;
-    width: 198px;
+    width: 198.5px;
     height: 40px;
     text-align: center;
     line-height: 40px;
@@ -175,11 +179,12 @@ button {
 
 .text3{
     position: absolute;
-    top: 600px;
-    left: 33px;
+    margin-top: -70px;
+    margin-left: 0.5px;
+    z-index: 3;
     background-color: #4aaaaf;
     color: white;
-    width: 198px;
+    width: 198.5px;
     height: 40px;
     text-align: center;
     line-height: 40px;
@@ -192,11 +197,12 @@ button {
 
 .text4{
     position: absolute;
-    top: 600px;
-    left: 273px;
+    margin-top: -70px;
+    margin-left: 0.5px;
+    z-index: 3;
     background-color: #4aaaaf;
     color: white;
-    width: 198px;
+    width: 198.5px;
     height: 40px;
     text-align: center;
     line-height: 40px;
@@ -210,15 +216,17 @@ button {
 
 .text5{
     position: absolute;
-    top: 825px;
-    left: 33px;
+    margin-top: -70px;
+    margin-left: 0.5px;
+    z-index: 3;
     background-color: #4aaaaf;
     color: white;
-    width: 198px;
+    width: 198.5px;
     height: 40px;
     text-align: center;
     line-height: 40px;
     font-size: 20px;
+    
 }
 
 p{
